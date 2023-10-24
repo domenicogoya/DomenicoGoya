@@ -6,7 +6,7 @@
 - 📫 How to reach me: **[Telegram](https://t.me/domenicogoya), [X (Twitter)](x.com/domenicogoya), [E-Mail](mailto:domenico.goya.38@ull.edu.es) or Physically at the *[ESIT](https://www.ull.es/centros/escuela-superior-de-ingenieria-y-tecnologia/)***
 - ⚡ Fun fact: **I hate Python**
 
-## Stats
+## My stats
 
 ![Profile stat](https://github-readme-stats.vercel.app/api?username=domenicogoya&show_icons=true&theme=radical&include_all_commits=true)
 
