@@ -2,8 +2,8 @@
 - 🔭 I’m currently a **Computer Engineering Sophomore at *[University of La Laguna](https://www.ull.es)***
 - 🌱 I’m currently learning **[C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Shell](https://en.wikipedia.org/wiki/Shell_script) and [MIPS Assembly](https://en.wikipedia.org/wiki/MIPS_architecture)**
 - 💬 Ask me about **any tech-related topic (specially Cybersecurity, SysAdmin, Cryptography and Networks)**
-- 💻 My secondary account **used for Cybersecurity scripts and related stuff: [@part3n0p3](https://github.com/part3n0p3)**
-- 📫 How to reach me: **[Telegram](https://t.me/part3n0p3), [X](https://x.com/part3n0p3), Discord (part3n0p3), [E-Mail](mailto:domenico.goya.38@ull.edu.es) or Physically at the *[ESIT](https://www.ull.es/centros/escuela-superior-de-ingenieria-y-tecnologia/)***
+- 💻 My secondary account **used for Cybersecurity scripts and related stuff: [@wh0crypt](https://github.com/wh0crypt)**
+- 📫 How to reach me: **[Telegram](https://t.me/wh0crypt), [X](https://x.com/wh0crypt), Discord (wh0crypt), [E-Mail](mailto:domenico.goya.38@ull.edu.es) or Physically at the *[ESIT](https://www.ull.es/centros/escuela-superior-de-ingenieria-y-tecnologia/)***
 - ⚡ Fun fact: **I hate Python**
 <br>
 
